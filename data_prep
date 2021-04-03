@@ -123,6 +123,6 @@ np.random.shuffle(data_all_with_patient_index)
 pd.DataFrame(data_all_with_patient_index).to_csv("data_all_with_patient_index.csv", header=None, index=None)
 
 
-# Please find the sourcecode for PPD-ERT at https://github.com/PPD-ERT/PPD-ERT
+# Please find the sourcecode for PPD-ERT at https://github.com/paperepo/PPD-ERT
 
 
